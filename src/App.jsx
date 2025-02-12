@@ -1,7 +1,7 @@
 import { useState } from 'react'
 // import './App.css'
 import AdviceApp from './Components/AdviceApp'
-import AdviceapplogoImg form '../Components/img/advice.png" alt="advice app';
+import AdviceapplogoImg form '../Components/img/advice.png';
 
 function App() {
   const [count, setCount] = useState(0)
